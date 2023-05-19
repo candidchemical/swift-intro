@@ -9,7 +9,7 @@ print(personName)
 personName = "Grace"
 print(personName)
 
-let actorName = "Sofia Popov"
+let actorName = "Sandra Smith"
 let dance = "Moonwalk"
 let movie = "El valor de la carne fresca."
 
